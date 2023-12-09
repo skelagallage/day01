@@ -1,8 +1,6 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-i
-9src/main/java/com/automation/variables/StaticVarDemo.java,7\e\7e4d4db50822137f5a79f008787e637864eacefa
 S
 #src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
 d
@@ -15,5 +13,3 @@ k
 ;src/main/java/com/automation/conditions/ConditionsDemo.java,5\9\5975cd62627323c4c60200a6a79768115269ff39
 g
 7src/main/java/com/automation/conditions/SwitchDemo.java,d\7\d70a842fa315bf5f67c5250012e8064ac6b0e78b
-h
-8src/main/java/com/automation/variables/VariableDemo.java,3\f\3fe8561e7170f36e788cefdc35e606f77118d232
